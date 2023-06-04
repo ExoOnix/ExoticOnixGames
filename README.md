@@ -15,6 +15,12 @@
 </a>
 </div>
 
+## Status
+
+Current State:
+- Backend complete: 100%
+- Frontend complete: 100%
+- Total complete: 100%
 ## Overview
 ExoticOnixGames is a website that provides a platform for gaming enthusiasts to play. It offers a wide range of games developed using Unity, and users can easily access them through the website.
 
