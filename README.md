@@ -1,7 +1,7 @@
 # ExoticOnixGames
 
 <div align="center">
-  <a href="https://github.com/ExoOnix/ExoticOnixGames">
+  <a href=" https://github.com/ExoOnix/ExoticOnixGames">
     <img src="https://img.shields.io/github/stars/ExoOnix/ExoticOnixGames?style=for-the-badge" alt="GitHub stars" />
   </a>
   <a href="https://github.com/ExoOnix/ExoticOnixGames/fork">
@@ -28,7 +28,7 @@ ExoticOnixGames is a website that provides a platform for gaming enthusiasts to 
 - Game Selection: Users can choose from a variety of games available on the website.
 
 ## Technologies Used
-ExoticOnixGames is built using Flask and Unity.
+ExoticOnixGames is built using Flask, Unity webGL and html, css and js.
 
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
